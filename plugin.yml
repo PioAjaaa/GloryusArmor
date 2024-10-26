@@ -1,0 +1,5 @@
+name: GloryArmor
+main: RanzCraft\GloryArmor\Loader
+version: 1.0.0
+author: RanzCraft
+api: 5.0.0
